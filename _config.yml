@@ -6,13 +6,13 @@ color:
     - '#B05858'
     - '#E8B038'
     - '#000000'
-  brandStrength: 0.252534
+  brandStrength: 0.172297
   lightness: 0.5
-  rhythmicContrast: 0.203547
-  saturation: 0.46875
+  rhythmicContrast: 0.161318
+  saturation: 0.251689
 cta: {}
-layout_spectrum: 0.74543
+layout_spectrum: 0.827703
 name: Scott Allen Huff
 opengraph: {}
 purpose: []
-typography_spectrum: 0.22497
+typography_spectrum: 0.357264
