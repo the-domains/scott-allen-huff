@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#010101'
-    - '#127500'
-    - '#b89400'
-    - '#84b5f0'
-    - '#a6f403'
-  brandStrength: 0.361486
+    - '#E8E0D0'
+    - '#600818'
+    - '#B05858'
+    - '#E8B038'
+    - '#000000'
+  brandStrength: 0.252534
   lightness: 0.5
-  rhythmicContrast: 0.184122
-  saturation: 0.683277
+  rhythmicContrast: 0.203547
+  saturation: 0.46875
 cta: {}
 layout_spectrum: 0.74543
 name: Scott Allen Huff
