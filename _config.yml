@@ -1,19 +1,4 @@
-name: Scott Allen Huff
-favicon: null
-layout_spectrum: 0.74543
-typography_spectrum: 0.22497
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#010101'
@@ -23,6 +8,11 @@ color:
     - '#a6f403'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.683277
+cta: {}
+layout_spectrum: 0.74543
+name: Scott Allen Huff
+opengraph: {}
 purpose: []
+typography_spectrum: 0.22497
