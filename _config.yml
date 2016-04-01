@@ -1,20 +1,4 @@
-name: Scott Allen Huff
-favicon: null
-layout_spectrum: 0.827703
-typography_spectrum: 0.357264
-title: Scott Allen Huff - Beta Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E8E0D0'
@@ -23,7 +7,12 @@ color:
     - '#E8B038'
     - '#000000'
   brandStrength: 0.152872
-  lightness: 0.5
-  saturation: 0.4375
-  rhythmicContrast: 0.25
+  lightness: 0.378378
+  rhythmicContrast: 0.360642
+  saturation: 0.222128
+cta: {}
+layout_spectrum: 0.827703
+name: Scott Allen Huff
+opengraph: {}
 purpose: []
+typography_spectrum: 0.357264
