@@ -1,28 +1,18 @@
-name: Scott Allen Huff
-favicon: null
-layout_spectrum: 0.827703
-typography_spectrum: 0.357264
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#000000'
-    - '#ffcc00'
-    - '#997a00'
-    - '#b13203'
-    - '#fc7909'
-  brandStrength: 0.1875
-  lightness: 0.5
+    - '#0E0D13'
+    - '#FCFDF8'
+    - '#4B503C'
+    - '#8F7F6F'
+    - '#B8B6AA'
+  brandStrength: 0.084459
+  lightness: 0.297297
+  rhythmicContrast: 0.214527
   saturation: 0.375
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.987331
+name: Scott Allen Huff
+opengraph: {}
 purpose: []
+typography_spectrum: 0.695946
